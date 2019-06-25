@@ -2273,7 +2273,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   is_Player: 0
-  is_Boar: 0
+  is_Boar: 1
   is_Cannibal: 0
 --- !u!137 &137082733776396216
 SkinnedMeshRenderer:
