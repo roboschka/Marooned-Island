@@ -2,7 +2,7 @@
 ## :one: Description
 This game tells a story about the player being abandoned (more like stranded) on an island, filled with Cannibals and Boars. The game's core mechanic is that there's wave. Each waves have their own number of enemies, the higher the wave, the harder. Players must survive the game, and reach the highest level/wave they can get. The mechanics are pretty much the same like their tutorial, except we changed some core mechanics using waves and boss.
 
-A little credit: Thanks to Freecodecamp for the free 3D assets :v: , they also made a game using these free assets, I saw it, I took it and gave them credits, so no problem. :smiley:
+A little credit: Thanks to Freecodecamp for the free 3D assets :v: , they also made a game using these free assets, I saw it, I took it and gave them credits, so no problem. :smiley: This is an assignment project for my Artificial intelligence course btw.
 
 ![Gameplay](/game.png)
 
